@@ -1,20 +1,33 @@
 # Dexter
 This repository contains direct links to things I use in daily basis and that are helpful (makes my life easier).
-  
-  
+
+
+
 ## Client Patching:
-* **_Spotify Patcher_**:         https://github.com/SpotX-CLI  
 * **_Office_**:  
-`Office 2016:	https://msguides.com/office-2016`  
-`Office 2019:	https://msguides.com/office-2019`  
-`Office 2021:	https://msguides.com/office-2021` 
+`Office 2016:				https://msguides.com/office-2016`    
+`Office 2019:				https://msguides.com/office-2019`   
+`Office 2021:				https://msguides.com/office-2021` 
+* **_Spotify Patcher_**:		https://github.com/SpotX-CLI  
 
 
-* Yes    
+## League Tools:  
+* **_JKassadin_** :			https://github.com/Riotphobia/JKassadin  
+* **_Kebs Tool_** :			https://github.com/KebsCS/KBotExt  
+* **_League Profile Tool_** :		https://github.com/MManoah/league-profile-tool  
+* **_Lobby Reveal_** :			https://github.com/Riotphobia/LobbyReveal  
+* **_Mecha_** :				https://github.com/x00bence/Mecha  
+* **_TFT Bot_** :			https://github.com/jfd02/TFT-OCR-BOT  
+
+
+## Programs Keys:
+* **_WinRar_** :			https://gist.github.com/MuhammadSaim/de84d1ca59952cf1efaa8c061aab81a1  
+
+
+## Windows Patching:  
+* **_Activate Windows 11_** :		https://msguides.com/windows-11  
+* **_Explorer Patcher_** :		https://github.com/valinet/ExplorerPatcher  
+* **_O&O and ShutUp 10++_** :		https://www.oo-software.com/fr/shutup10  
 
 
 
-## Windows Patching:
-* **_Explorer Patcher_** :       https://github.com/valinet/ExplorerPatcher  
-* **_O&O and ShutUp 10++_** : 	 https://www.oo-software.com/fr/shutup10  
-* **_Activate Windows 11_** :    https://msguides.com/windows-11
