@@ -5,9 +5,9 @@ This repository contains direct links to things I use in daily basis and that ar
 
 ## Client Patching:
 * **_Office_**:  
-`Office 2016:				https://msguides.com/office-2016`    
-`Office 2019:				https://msguides.com/office-2019`   
-`Office 2021:				https://msguides.com/office-2021` 
+`Office 2016: https://msguides.com/office-2016`    
+`Office 2019:	https://msguides.com/office-2019`   
+`Office 2021:	https://msguides.com/office-2021` 
 * **_Spotify Patcher_**:		https://github.com/SpotX-CLI  
 
 
