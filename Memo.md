@@ -12,7 +12,9 @@ This repository contains direct links to things I use in daily basis and that ar
 
 
 ## FL Studio Plugins:
-* **_Serum_** :			https://softprober.com/audio-processing/xfer-records-serum-1-35b1-2022-free-download/  
+* **_Serum_**:  
+>* [Data And Presets](https://pesktop.com/en/windows/xfer_records_serum_full_update_fx)    
+>* [Installer](https://softprober.com/audio-processing/xfer-records-serum-1-35b1-2022-free-download/) 
 
 ## League Tools:  
 * **_JKassadin_** :			https://github.com/Riotphobia/JKassadin  
