@@ -11,6 +11,9 @@ This repository contains direct links to things I use in daily basis and that ar
 * **_Spotify Patcher_**:		https://github.com/SpotX-CLI  
 
 
+## FL Studio Plugins:
+* **_Serum_** :			https://softprober.com/audio-processing/xfer-records-serum-1-35b1-2022-free-download/  
+
 ## League Tools:  
 * **_JKassadin_** :			https://github.com/Riotphobia/JKassadin  
 * **_Kebs Tool_** :			https://github.com/KebsCS/KBotExt  
@@ -18,6 +21,8 @@ This repository contains direct links to things I use in daily basis and that ar
 * **_Lobby Reveal_** :			https://github.com/Riotphobia/LobbyReveal  
 * **_Mecha_** :				https://github.com/x00bence/Mecha  
 * **_TFT Bot_** :			https://github.com/jfd02/TFT-OCR-BOT  
+
+
 
 
 ## Programs Keys:
