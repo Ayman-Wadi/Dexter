@@ -27,7 +27,8 @@ This repository contains direct links to things I use in daily basis and that ar
 
 
 
-## Programs Keys:
+## Programs Cracks & Keys :
+* **_Internet Download Manager_**p : https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html
 * **_WinRar_** :			https://gist.github.com/MuhammadSaim/de84d1ca59952cf1efaa8c061aab81a1  
 
 
