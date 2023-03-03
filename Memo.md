@@ -34,6 +34,7 @@ This repository contains direct links to things I use in daily basis and that ar
 
 ## Windows Patching:  
 * **_Activate Windows 11_** :		https://msguides.com/windows-11  
+* **_BleachBit_** :		https://www.bleachbit.org/
 * **_Explorer Patcher_** :		https://github.com/valinet/ExplorerPatcher  
 * **_O&O and ShutUp 10++_** :		https://www.oo-software.com/fr/shutup10  
 
