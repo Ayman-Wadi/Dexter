@@ -16,6 +16,7 @@ This repository contains direct links to things I use in daily basis and that ar
 >* [Data And Presets](https://pesktop.com/en/windows/xfer_records_serum_full_update_fx)    
 >* [Installer](https://softprober.com/audio-processing/xfer-records-serum-1-35b1-2022-free-download/) 
 
+
 ## League Tools:  
 * **_JKassadin_** :			https://github.com/Riotphobia/JKassadin  
 * **_Kebs Tool_** :			https://github.com/KebsCS/KBotExt  
@@ -25,24 +26,19 @@ This repository contains direct links to things I use in daily basis and that ar
 * **_TFT Bot_** :			https://github.com/jfd02/TFT-OCR-BOT  
 
 
-
-
 ## Programs Cracks & Keys :  
 * **_Internet Download Manager_** : https://lrepacks.net/repaki-programm-dlya-interneta/56-internet-download-manager-repack.html
 * **_WinRar_** :			https://gist.github.com/MuhammadSaim/de84d1ca59952cf1efaa8c061aab81a1  
 
 
+## Playlists:
+* **_Deep House_** :	https://open.spotify.com/playlist/4Kq1hbwmR96wximW616QY3?si=a563a0ba367b4a86 
+* **_Phonk_** :	 https://open.spotify.com/playlist/1hyv82yWAJPApb0LzTuXxF?si=63ec516ee05948c1  
+
+
 ## Windows Patching:  
 * **_Activate Windows 11_** :		https://msguides.com/windows-11  
 * **_BleachBit_** :		https://www.bleachbit.org/
+* **_Context Menu Manager_** :		https://github.com/BluePointLilac/ContextMenuManager/blob/master/README-en.md
 * **_Explorer Patcher_** :		https://github.com/valinet/ExplorerPatcher  
 * **_O&O and ShutUp 10++_** :		https://www.oo-software.com/fr/shutup10  
-
-
-Phonk: https://open.spotify.com/playlist/1hyv82yWAJPApb0LzTuXxF?si=63ec516ee05948c1
-Deep house: https://open.spotify.com/playlist/4Kq1hbwmR96wximW616QY3?si=a563a0ba367b4a86
-PrinceWadi
-aymwadidream:ayman200
-profavigi:ayman2001
-
-
