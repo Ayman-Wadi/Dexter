@@ -1,0 +1,10 @@
+Those are Known fixes to the CPU problems.
+
+
+
+
+Disable Power Problems and Overclocking with control panel.
+Step 1: Press Windows + S, input control panel, and click the search result to open it.
+Step 2: Navigate to Hardware and Sound > Power Options and click Change plan settings next to your selected power plan.
+Step 3: Click Change advanced power settings to open the Power Options dialog.
+Step 4: Expand Processor power management > Maximum processor state and set the values of both On battery and Plugged in as 99% to disable Turbo Boost technology.
